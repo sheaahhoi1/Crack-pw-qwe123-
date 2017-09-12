@@ -672,7 +672,10 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
-                    GNU通用公共許可證
+                   
+
+============================================================================================== 
+                   GNU通用公共許可證
                        版本3，2007年6月29日
 
  版權所有（C）2007免費軟件基金會公司<http://fsf.org/>
